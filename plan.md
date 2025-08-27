@@ -1,4 +1,4 @@
-Create a .md plan file in `~/avon-ai/_plans/` folder. $ARGUMENTS
+Create a .md plan file in `_plans/` folder. $ARGUMENTS
 
 Plan file should contain:
 
